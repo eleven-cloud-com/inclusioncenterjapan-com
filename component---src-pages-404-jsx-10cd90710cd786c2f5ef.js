@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinclusioncenterjapan_com=self.webpackChunkinclusioncenterjapan_com||[]).push([[256],{8336:function(t,n,e){e.r(n),e.d(n,{Head:function(){return i}});var l=e(2784),a=e(7816),s=e(3679),u=e(3422),c=e(8165);n.default=()=>(0,c.tZ)(a.A,null,(0,c.tZ)(s.Z,{lists:[{label:"TOP",link:"/"}]}),(0,c.tZ)(u.Z,{sx:{mt:"100px"}},(0,c.tZ)("h1",null,"404 NOT FOUND")));const i=t=>{let{data:{site:{siteMetadata:{siteUrl:n}}}}=t;return(0,c.tZ)(l.Fragment,null)}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-10cd90710cd786c2f5ef.js.map
